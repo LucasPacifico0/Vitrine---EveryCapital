@@ -118,7 +118,7 @@ Evolução do patrimônio, distribuição de despesas, taxa de poupança e metas
 
 | Pessoa | Papel |
 |---|---|
-| [Lucas Pacifico](https://github.com/LucasPacifico0) | Idealizador e founder: estratégia do produto, dados e banco de dados, primeira versão, front-end e SEO |
+| [Lucas Pacifico](https://github.com/LucasPacifico0) | Idealizador e Founder: estratégia do produto, banco de dados, API, primeira versão, front-end e SEO |
 | [Henrique Alencar](https://github.com/HenriqueAlencar5) | Segurança, concorrência, parcelamento, build e infraestrutura de produção |
 
 ## Status
